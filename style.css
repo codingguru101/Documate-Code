@@ -9719,6 +9719,12 @@ button.daquestionbackbutton:after {
     left: 0;
     position: relative;
 }
+ody .tab-content div.danav {
+    display: none !important;
+    padding: 25px 0 0;
+    justify-content: flex-start !important;
+    flex-wrap: wrap;
+}
 button.daquestionbackbutton:hover:after{
   left: -5px;
 }
